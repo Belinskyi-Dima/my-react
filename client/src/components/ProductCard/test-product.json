@@ -1,0 +1,72 @@
+[
+    {
+        "name": "pride marvel 2022",
+        "description": "Pride Marvel 7.1 is a mountainbike with 27.5\" wheels. Marvel series designed for recreational riding. Its a classic mountainbikes with comfortable geometry on which you can spend all your free time.",
+        "currentPrice": "344.00",
+        "color": "black",
+        "brand": "pride",
+        "material": "aluminum",
+        "categories": "mtb",
+        "subCategories": "hardtail", 
+        "type": "hardtail",
+        "transmission": "Microshift TS39",
+        "sizes": [
+            {
+                "name": "s",
+                "quantity": "0"
+            },
+            {
+                "name": "m",
+                "quantity": "17"
+            },
+            {
+                "name": "l",
+                "quantity": "24"
+            },
+            {
+                "name": "xl",
+                "quantity": "2"
+            }
+        ],
+        "imageUrls": [
+            "https://bikes-pics.s3.eu-central-1.amazonaws.com/pride-marvel-2022-black-1.webp", 
+            "https://bikes-pics.s3.eu-central-1.amazonaws.com/pride-marvel-2022-black-2.webp",
+            "https://bikes-pics.s3.eu-central-1.amazonaws.com/pride-marvel-2022-black-3.webp" 
+        ]
+    },
+    {
+        "name": "pride marvel 2022",
+        "description": "Pride Marvel 7.1 is a mountainbike with 27.5\" wheels. Marvel series designed for recreational riding. Its a classic mountainbikes with comfortable geometry on which you can spend all your free time.",
+        "currentPrice": "344.00",
+        "color": "yellow",
+        "brand": "pride",
+        "material": "aluminum",
+        "categories": "mtb",
+        "subCategories": "hardtail", 
+        "type": "hardtail",
+        "transmission": "Microshift TS39",
+        "sizes": [
+            {
+                "name": "s",
+                "quantity": "4"
+            },
+            {
+                "name": "m",
+                "quantity": "12"
+            },
+            {
+                "name": "l",
+                "quantity": "15"
+            },
+            {
+                "name": "xl",
+                "quantity": "0"
+            }
+        ],
+        "imageUrls": [
+            "https://bikes-pics.s3.eu-central-1.amazonaws.com/pride-marvel-2022-yellow-1.webp", 
+            "https://bikes-pics.s3.eu-central-1.amazonaws.com/pride-marvel-2022-yellow-2.webp", 
+            "https://bikes-pics.s3.eu-central-1.amazonaws.com/pride-marvel-2022-yellow-3.webp"
+        ]
+    }
+]

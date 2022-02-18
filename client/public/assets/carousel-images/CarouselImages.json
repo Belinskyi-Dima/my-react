@@ -1,0 +1,20 @@
+[
+    {
+        "img" : "./assets/carousel-images/pexels-burst-545004.jpg",
+        "imgTitle" : "some title",
+        "imgContent" : "some content",
+        "id" : "1"
+    },
+    {
+        "img" : "./assets/carousel-images/pexels-dave-haas-953626.jpg",
+        "imgTitle" : "some title",
+        "imgContent" : "some content",
+        "id" : "2"
+    },
+    {
+        "img" : "./assets/carousel-images/pexels-vinayak-varlikar-2591990.jpg",
+        "imgTitle" : "some title",
+        "imgContent" : "some content",
+        "id" : "3"
+    }
+]

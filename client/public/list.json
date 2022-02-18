@@ -1,0 +1,87 @@
+[
+	{
+		 "id": "1001",
+		 "image": "../img/1.png",
+		 "name": "Rod Laver Vin Shoes",
+		 "category": "Men's Originals",
+		 "price": "33$"
+	
+
+	},
+	{
+		 "id": "1002",
+		 "image":"../img/2.png",
+		 "name": "Superstar Shoes",
+		 "category": "Men's Originals",
+		 "price": "55$"
+		
+	},
+	{
+		"id": "1003",
+		"image": "../img/3.png",
+		"name": "Rod Laver Vin Shoes",
+		"category": "Men's Originals",
+		"price": "95$"
+  
+
+  },
+  {
+		"id": "1004",
+		"image":"../img/4.jpg",
+		"name": "Superstar Shoes",
+		"category": "Men's Originals",
+		"price": "65$"
+	  
+  },
+  {
+	"id": "1005",
+	"image": "../img/5.jpg",
+	"name": "Rod Laver Vin Shoes",
+	"category": "Men's Originals",
+	"price": "116$"
+
+
+},
+{
+	"id": "1006",
+	"image":"../img/6.jpg",
+	"name": "Superstar Shoes мужские шлепки ADIDAS BLIZAC NID",
+	"category": "Men's Originals",
+	"price": "145$"
+  
+},
+{
+	"id": "1007",
+	"image": "../img/7.jpg",
+	"name": "Rod Laver Vin Shoes",
+	"category": "Men's Originals",
+	"price": "95$"
+
+
+},
+{
+	"id": "1008",
+	"image":"../img/8.jpg",
+	"name": "Superstar Shoes ADIDAS",
+	"category": "Men's Originals",
+	"price": "139$"
+  
+},
+{
+	"id": "1009",
+	"image": "../img/9.jpg",
+	"name": "Rod Laver Vin Shoes",
+	"category": "Men's Originals",
+	"price": "220$"
+
+
+},
+{
+	"id": "1010",
+	"image":"../img/10.jpg",
+	"name": "Superstar Shoes",
+	"category": "Men's Originals",
+	"price": "65$"
+  
+}
+]
